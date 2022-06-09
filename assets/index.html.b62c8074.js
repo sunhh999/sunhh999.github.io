@@ -1,0 +1,1 @@
+const e={key:"v-33c1eb7c",path:"/article/react/problem-ecord/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"article/react/problem-ecord/README.md"};export{e as data};
