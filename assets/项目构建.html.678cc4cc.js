@@ -1,0 +1,1 @@
+const e={key:"v-3ed72d30",path:"/problem/%E9%A1%B9%E7%9B%AE%E6%9E%84%E5%BB%BA.html",title:"Token",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"token \u83B7\u53D6\u4E0D\u5230\u7684\u95EE\u9898",slug:"token-\u83B7\u53D6\u4E0D\u5230\u7684\u95EE\u9898",children:[]}],git:{},filePathRelative:"problem/\u9879\u76EE\u6784\u5EFA.md"};export{e as data};

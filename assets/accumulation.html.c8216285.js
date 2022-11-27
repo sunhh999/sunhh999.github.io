@@ -1,0 +1,1 @@
+const t={key:"v-38941172",path:"/article/react/accumulation.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"article/react/accumulation.md"};export{t as data};

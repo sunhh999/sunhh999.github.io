@@ -1,0 +1,1 @@
+const t={key:"v-31a4ed08",path:"/TypeScript/Ts%E5%BC%80%E5%8F%91%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"TypeScript/Ts\u5F00\u53D1\u4E2D\u9047\u5230\u7684\u95EE\u9898.md"};export{t as data};

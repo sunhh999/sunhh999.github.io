@@ -1,0 +1,1 @@
+const e={key:"v-8fabc3a8",path:"/encapsulation/vue2/element.html",title:"Element-ui",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5206\u9875\u5668-pagination",slug:"\u5206\u9875\u5668-pagination",children:[]},{level:2,title:"\u8868\u683C-table",slug:"\u8868\u683C-table",children:[]}],git:{},filePathRelative:"encapsulation/vue2/element.md"};export{e as data};
